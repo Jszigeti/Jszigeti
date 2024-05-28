@@ -4,7 +4,7 @@ Bonjour à tous ! 👋 Passionné depuis toujours par le développement web et l
 En tant que développeur web en devenir, je me spécialise dans les technologies front-end et back-end telles que les langages HTML, CSS, SASS, JavaScript et React. Mes expériences professionnelles passées m'ont doté de qualités telles que la persévérance, la rigueur et la capacité à travailler sous pression.
 
 🔨 Projets actuels :
-Actuellement en formation intensive, je travaille sur des projets immersifs qui me permettent de mettre en pratique mes compétences en développement web. J'ai récemment réalisé un site de location de biens entre particulier (Airbnb like), mettant en œuvre les langages HTML, CSS, SASS, JavaScript et React pour obtenir des résultats concrets.
+Actuellement en formation intensive, je participe à des projets immersifs qui me permettent de mettre en pratique mes compétences en développement web. J'ai récemment créé un site de location de biens entre particuliers (type Airbnb), utilisant HTML, CSS, SASS, JavaScript et React pour obtenir des résultats concrets. En ce moment, je suis en train de concevoir le front-end d'une application bancaire avec React.
 
 💼 Expérience antérieure :
 Mes précédents postes m'ont enseigné l'importance de la relation client, de la gestion de projet et du travail d'équipe. Ces compétences sont des atouts que je compte bien intégrer dans mon nouveau rôle de développeur.
