@@ -1,16 +1,39 @@
-Bonjour à tous ! 👋 Passionné depuis toujours par le développement web et les nouvelles technologies, je suis actuellement une reconversion professionnelle passionnante pour devenir développeur web. Ma carrière antérieure dans l'immobilier et le commerce en tant que commercial et manager m'a apporté des compétences solides en communication, en gestion d'équipe et en négociation.
+Version 🥐🥖 :
+
+Bonjour à tous ! 👋 Passionné depuis toujours par le développement web et les nouvelles technologies, je viens de terminer avec succès ma formation en développement web. Mon portfolio actuel met en œuvre des technologies modernes telles que Next.js, Prisma et MySQL, illustrant mes compétences croissantes en développement full-stack.
 
 🚀 Compétences clés :
-En tant que développeur web en devenir, je me spécialise dans les technologies front-end et back-end telles que les langages HTML, CSS, SASS, JavaScript et React. Mes expériences professionnelles passées m'ont doté de qualités telles que la persévérance, la rigueur et la capacité à travailler sous pression.
+Je suis spécialisé dans le développement front-end avec Next.js et le back-end avec Prisma et MySQL. J'ai également une bonne maîtrise des concepts de déploiement avec Ubuntu, Nginx et Docker, ayant déployé tous mes projets sur mon propre serveur.
 
 🔨 Projets actuels :
-Actuellement en formation intensive, je participe à des projets immersifs qui me permettent de mettre en pratique mes compétences en développement web. J'ai récemment créé un site de location de biens entre particuliers (type Airbnb), utilisant HTML, CSS, SASS, JavaScript et React pour obtenir des résultats concrets. En ce moment, je suis en train de concevoir le front-end d'une application bancaire avec React.
+Mon portfolio inclut des applications web dynamiques et réactives que j'ai développées au cours de ma formation. Chaque projet démontre non seulement ma capacité à concevoir des interfaces utilisateur attrayantes, mais aussi à architecturer des systèmes robustes et sécurisés.
 
 💼 Expérience antérieure :
-Mes précédents postes m'ont enseigné l'importance de la relation client, de la gestion de projet et du travail d'équipe. Ces compétences sont des atouts que je compte bien intégrer dans mon nouveau rôle de développeur.
+Ma carrière précédente dans l'immobilier et le commerce m'a apporté des compétences solides en communication, en gestion d'équipe et en négociation, que je m'efforce d'intégrer dans mes projets de développement.
 
 🎯 Vision et objectif :
-Je suis déterminé à combiner mes compétences antérieures avec ma passion pour le développement web. Mon objectif est de contribuer à des projets innovants et de continuer à apprendre pour rester à la pointe des technologies émergentes.
+Je suis déterminé à continuer d'apprendre et d'explorer de nouvelles technologies pour rester à la pointe de mon domaine. Mon objectif est de contribuer à des projets innovants et de collaborer avec des professionnels passionnés.
 
-📬 Contact :
-Je suis ouvert aux opportunités de collaboration, aux projets freelance et aux échanges enrichissants. Si vous souhaitez discuter de développement web, de reconversion professionnelle ou de tout autre sujet, n'hésitez pas à me contacter !
+🌐 Venez visiter mon portfolio !
+Je vous invite à explorer mes projets et à découvrir mon travail sur mon site personnel : https://jsproject.fr/. N'hésitez pas à me contacter pour toute collaboration ou échange enrichissant !
+
+___________________________________________________________________________
+
+Version 🍔🍟 :
+
+Hello everyone! 👋 Passionate about web development and emerging technologies since childhood, I've recently completed a successful web development training program. My current portfolio showcases projects implemented with modern technologies like Next.js, Prisma, and MySQL, demonstrating my growing expertise in full-stack development.
+
+🚀 Key Skills:
+I specialize in front-end development with Next.js and back-end development with Prisma and MySQL. I also have a strong grasp of deployment concepts using Ubuntu, Nginx, and Docker, having deployed all my projects on my own server.
+
+🔨 Current Projects:
+My portfolio features dynamic and responsive web applications developed during my training. Each project not only showcases my ability to design attractive user interfaces but also to architect robust and secure systems.
+
+💼 Previous Experience:
+My previous career in real estate and commerce equipped me with strong communication, team management, and negotiation skills, which I integrate into my development projects.
+
+🎯 Vision and Goal:
+I am committed to continuous learning and exploring new technologies to remain at the forefront of my field. My goal is to contribute to innovative projects and collaborate with passionate professionals.
+
+🌐 Visit my portfolio!
+Feel free to explore my projects and discover my work on my personal website: https://jsproject.fr/. Don't hesitate to contact me for collaboration or enriching discussions!
