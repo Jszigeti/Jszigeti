@@ -1,39 +1,49 @@
 Version 🥐🥖 :
 
-Bonjour à tous ! 👋 Passionné depuis toujours par le développement web et les nouvelles technologies, je viens de terminer avec succès ma formation en développement web. Mon portfolio actuel met en œuvre des technologies modernes telles que Next.js, Prisma et MySQL, illustrant mes compétences croissantes en développement full-stack.
+Bonjour ! 👋
 
-🚀 Compétences clés :
-Je suis spécialisé dans le développement front-end avec Next.js et le back-end avec Prisma et MySQL. J'ai également une bonne maîtrise des concepts de déploiement avec Ubuntu, Nginx et Docker, ayant déployé tous mes projets sur mon propre serveur.
+Développeur Full Stack, je crée des applications web performantes et robustes en m’appuyant sur les technologies modernes. Avec une solide expertise en TypeScript, React, Next.js, NestJS, bases de données SQL et NoSQL, Docker, et en administration système et passionné par l’innovation, j’aime me lancer dans des projets qui demandent une bonne dose de technique et une vraie attention à l’expérience utilisateur.
 
-🔨 Projets actuels :
-Mon portfolio inclut des applications web dynamiques et réactives que j'ai développées au cours de ma formation. Chaque projet démontre non seulement ma capacité à concevoir des interfaces utilisateur attrayantes, mais aussi à architecturer des systèmes robustes et sécurisés.
+🚀 Mes compétences techniques :
+Je travaille sur l’ensemble du cycle de développement, du front-end au back-end, en passant par l'administration système et le déploiement, maîtrisant ainsi l'architecture des applications de A à Z.
 
-💼 Expérience antérieure :
-Ma carrière précédente dans l'immobilier et le commerce m'a apporté des compétences solides en communication, en gestion d'équipe et en négociation, que je m'efforce d'intégrer dans mes projets de développement.
+🔨 Projet actuel :
+Je développe actuellement une application de voyage avec React, TypeScript, NestJS et MySQL. L’idée ? Faciliter la planification de voyages collaboratifs en intégrant une gestion fluide des groupes, un partage de médias et un système de recommandations. Un projet technique et stimulant qui réunit les dernières technologies pour offrir une expérience utilisateur engageante.
 
-🎯 Vision et objectif :
-Je suis déterminé à continuer d'apprendre et d'explorer de nouvelles technologies pour rester à la pointe de mon domaine. Mon objectif est de contribuer à des projets innovants et de collaborer avec des professionnels passionnés.
+💼 Mon parcours :
+Passionné depuis toujours par l'informatique et après 12 ans en tant que manager et commercial, j’ai décidé de m’orienter vers le développement web. Cette expérience m’a appris à gérer les projets avec rigueur, à communiquer clairement et à avancer avec un esprit de solution. Des qualités que j’utilise au quotidien dans mon métier de développeur.
 
-🌐 Venez visiter mon portfolio !
-Je vous invite à explorer mes projets et à découvrir mon travail sur mon site personnel : https://jsproject.fr/. N'hésitez pas à me contacter pour toute collaboration ou échange enrichissant !
+🎯 Ce qui me motive :
+Je suis toujours prêt à relever des défis techniques et à travailler sur des projets qui ont du sens. J’aime apprendre, partager, et collaborer avec d’autres passionnés.
+
+📬 Discutons !
+Si vous avez envie d’échanger sur le développement, les technologies modernes, ou sur un projet, n’hésitez pas à me contacter !
+
+Portfolio : https://jsproject.fr/
+Gitlab: https://git.alt-tools.tech/jonas-szigeti
 
 ___________________________________________________________________________
 
 Version 🍔🍟 :
 
-Hello everyone! 👋 Passionate about web development and emerging technologies since childhood, I've recently completed a successful web development training program. My current portfolio showcases projects implemented with modern technologies like Next.js, Prisma, and MySQL, demonstrating my growing expertise in full-stack development.
+Hello! 👋
 
-🚀 Key Skills:
-I specialize in front-end development with Next.js and back-end development with Prisma and MySQL. I also have a strong grasp of deployment concepts using Ubuntu, Nginx, and Docker, having deployed all my projects on my own server.
+As a Full Stack Developer, I build high-performance, robust web applications using modern technologies. With solid expertise in TypeScript, React, Next.js, NestJS, SQL and NoSQL databases, Docker, and system administration, I’m passionate about innovation and love taking on projects that require a good mix of technical depth and a strong focus on user experience.
 
-🔨 Current Projects:
-My portfolio features dynamic and responsive web applications developed during my training. Each project not only showcases my ability to design attractive user interfaces but also to architect robust and secure systems.
+🚀 My technical skills:
+I work across the entire development cycle, from front-end to back-end, including system administration and deployment, mastering application architecture from start to finish.
 
-💼 Previous Experience:
-My previous career in real estate and commerce equipped me with strong communication, team management, and negotiation skills, which I integrate into my development projects.
+🔨 Current project:
+I’m currently developing a travel app using React, TypeScript, NestJS, and MySQL. The goal? To simplify collaborative travel planning by integrating smooth group management, media sharing, and a recommendation system. It’s a technically challenging and rewarding project that brings together the latest technologies to deliver an engaging user experience.
 
-🎯 Vision and Goal:
-I am committed to continuous learning and exploring new technologies to remain at the forefront of my field. My goal is to contribute to innovative projects and collaborate with passionate professionals.
+💼 My background:
+Passionate about technology since always, and after 12 years as a manager and sales professional, I decided to shift towards web development. This background taught me how to manage projects with precision, communicate clearly, and approach challenges with a solution-oriented mindset. These qualities I apply daily in my role as a developer.
 
-🌐 Visit my portfolio!
-Feel free to explore my projects and discover my work on my personal website: https://jsproject.fr/. Don't hesitate to contact me for collaboration or enriching discussions!
+🎯 What drives me:
+I’m always eager to tackle technical challenges and work on meaningful projects. I enjoy learning, sharing knowledge, and collaborating with other passionate individuals.
+
+📬 Let’s talk!
+If you’d like to discuss development, modern technologies, or a project, feel free to reach out!
+
+Portfolio: https://jsproject.fr/
+GitLab: https://git.alt-tools.tech/jonas-szigeti
