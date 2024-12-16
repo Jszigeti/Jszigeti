@@ -27,7 +27,9 @@ En dehors du développement, je suis passionné par des sujets comme le rétroga
 Si vous souhaitez échanger sur un projet, une problématique technique, ou même simplement partager des idées, n’hésitez pas à me contacter !
 
 Portfolio : https://jsproject.fr
+
 GitHub : https://github.com/Jszigeti
+
 GitLab : https://git.alt-tools.tech/jonas-szigeti
 
 
@@ -63,5 +65,7 @@ Outside of development, I'm passionate about topics like retrogaming, collaborat
 If you’d like to discuss a project, a technical challenge, or just exchange ideas, feel free to reach out!
 
 Portfolio: https://jsproject.fr
+
 GitHub: https://github.com/Jszigeti
+
 GitLab: https://git.alt-tools.tech/jonas-szigeti
