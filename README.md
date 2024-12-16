@@ -1,77 +1,65 @@
 Version 🥐🥖 :
 
 
-Bonjour ! 👋
+👋 Bienvenue sur mon profil !
 
+Passionné par le développement web depuis mon adolescence, j’ai décidé de transformer cette passion en métier. Aujourd’hui, en tant que développeur Full Stack & DevOps, je m’efforce de concevoir des applications performantes, maintenables et centrées sur l’utilisateur. Mon approche est basée sur la Clean Architecture pour garantir des solutions robustes et évolutives.
 
-Développeur Full Stack, je crée des applications web performantes et robustes en m’appuyant sur les technologies modernes. Avec une solide expertise en TypeScript, React, Next.js, NestJS, bases de données SQL et NoSQL, Docker, et en administration système et passionné par l’innovation, j’aime me lancer dans des projets qui demandent une bonne dose de technique et une vraie attention à l’expérience utilisateur.
+🚀 Quelques réalisations récentes :
+- Travel2Gether : Une application web collaborative pour les voyageurs. J'y ai intégré des fonctionnalités comme la gestion de groupes, le partage de médias, et des recommandations personnalisées, le tout avec des technologies comme React, TypeScript, NestJS, et MySQL.
+- Vite-TS-Starter-Kit : Un starter kit pour démarrer rapidement des projets avec Vite et TypeScript, conçu pour être flexible et rapide.
+- Packages npm :
+      - axios-error-handler-ts : Une solution simplifiant la gestion des erreurs avec Axios et TypeScript.
+      - axios-cookie-auth : Un package pour gérer l'authentification basée sur les cookies avec Axios.
+  
+💼 Ce que je peux vous apporter :
+Une maîtrise des technologies modernes telles que React, TypeScript, Next.js, NestJS, SQL/NoSQL, et Docker.
+Une vision claire de l’architecture logicielle permettant de créer des applications robustes et évolutives.
+Une capacité à gérer toutes les étapes d’un projet, du front-end au déploiement sur le cloud.
 
+✨ Mon parcours atypique, ma valeur ajoutée :
+Avec 12 ans d’expérience dans le management et le commerce, j’ai appris à comprendre les besoins humains, à m’adapter rapidement et à aligner les objectifs techniques avec les besoins des utilisateurs. Ces compétences enrichissent ma pratique de développeur et me permettent d’être à l’aise tant pour coder que pour collaborer efficacement avec des équipes variées.
 
-🚀 Mes compétences techniques :
-
-Je travaille sur l’ensemble du cycle de développement, du front-end au back-end, en passant par l'administration système et le déploiement, maîtrisant ainsi l'architecture des applications de A à Z.
-
-
-🔨 Projet actuel :
-
-Je développe actuellement une application de voyage avec React, TypeScript, NestJS et MySQL. L’idée ? Faciliter la planification de voyages collaboratifs en intégrant une gestion fluide des groupes, un partage de médias et un système de recommandations. Un projet technique et stimulant qui réunit les dernières technologies pour offrir une expérience utilisateur engageante.
-
-
-💼 Mon parcours :
-
-Passionné depuis toujours par l'informatique et après 12 ans en tant que manager et commercial, j’ai décidé de m’orienter vers le développement web. Cette expérience m’a appris à gérer les projets avec rigueur, à communiquer clairement et à avancer avec un esprit de solution. Des qualités que j’utilise au quotidien dans mon métier de développeur.
-
-
-🎯 Ce qui me motive :
-
-Je suis toujours prêt à relever des défis techniques et à travailler sur des projets qui ont du sens. J’aime apprendre, partager, et collaborer avec d’autres passionnés.
-
+📚 Curieux et toujours en quête de nouveaux défis :
+En dehors du développement, je suis passionné par des sujets comme le rétrogaming, les applications collaboratives et les solutions innovantes qui simplifient le quotidien.
 
 📬 Discutons !
+Si vous souhaitez échanger sur un projet, une problématique technique, ou même simplement partager des idées, n’hésitez pas à me contacter !
 
-Si vous avez envie d’échanger sur le développement, les technologies modernes, ou sur un projet, n’hésitez pas à me contacter !
-
-
-Portfolio : https://jsproject.fr/
-
-Gitlab: https://git.alt-tools.tech/jonas-szigeti
+Portfolio : https://jsproject.fr
+GitHub : https://github.com/Jszigeti
+GitLab : https://git.alt-tools.tech/jonas-szigeti
 
 ___________________________________________________________________________
 
 Version 🍔🍟 :
 
 
-Hello! 👋
+👋 Welcome to my profile!
 
+I've been passionate about web development since my teenage years, and I decided to turn that passion into a career. Today, as a Full Stack Developer & DevOps, I strive to create high-performance, maintainable applications that focus on user experience. My approach is rooted in Clean Architecture, ensuring robust and scalable solutions.
 
-As a Full Stack Developer, I build high-performance, robust web applications using modern technologies. With solid expertise in TypeScript, React, Next.js, NestJS, SQL and NoSQL databases, Docker, and system administration, I’m passionate about innovation and love taking on projects that require a good mix of technical depth and a strong focus on user experience.
+🚀 Recent projects I'm proud of:
+- Travel2Gether: A collaborative web app for travelers. I integrated features like group management, media sharing, and personalized recommendations, all built with technologies like React, TypeScript, NestJS, and MySQL.
+- Vite-TS-Starter-Kit: A starter kit for quickly launching projects with Vite and TypeScript, designed to be flexible and fast.
+- npm packages:
+      - axios-error-handler-ts: A solution simplifying error handling with Axios and TypeScript.
+      - axios-cookie-auth: A package for managing cookie-based authentication with Axios.
+  
+💼 What I bring to the table:
+Expertise in modern technologies like React, TypeScript, Next.js, NestJS, SQL/NoSQL, and Docker.
+A clear understanding of software architecture, enabling me to build robust and scalable applications.
+The ability to manage every stage of a project, from front-end to cloud deployment.
 
+✨ An unconventional background, a unique value:
+With 12 years of experience in management and sales, I learned how to understand human needs, adapt quickly, and align technical objectives with user requirements. These skills enrich my work as a developer and allow me to be just as comfortable coding as collaborating effectively with diverse teams.
 
-🚀 My technical skills:
-
-I work across the entire development cycle, from front-end to back-end, including system administration and deployment, mastering application architecture from start to finish.
-
-
-🔨 Current project:
-
-I’m currently developing a travel app using React, TypeScript, NestJS, and MySQL. The goal? To simplify collaborative travel planning by integrating smooth group management, media sharing, and a recommendation system. It’s a technically challenging and rewarding project that brings together the latest technologies to deliver an engaging user experience.
-
-
-💼 My background:
-
-Passionate about technology since always, and after 12 years as a manager and sales professional, I decided to shift towards web development. This background taught me how to manage projects with precision, communicate clearly, and approach challenges with a solution-oriented mindset. These qualities I apply daily in my role as a developer.
-
-
-🎯 What drives me:
-
-I’m always eager to tackle technical challenges and work on meaningful projects. I enjoy learning, sharing knowledge, and collaborating with other passionate individuals.
-
+📚 Curious and always seeking new challenges:
+Outside of development, I'm passionate about topics like retrogaming, collaborative applications, and innovative solutions that simplify daily life.
 
 📬 Let’s talk!
+If you’d like to discuss a project, a technical challenge, or just exchange ideas, feel free to reach out!
 
-If you’d like to discuss development, modern technologies, or a project, feel free to reach out!
-
-
-Portfolio: https://jsproject.fr/
-
+Portfolio: https://jsproject.fr
+GitHub: https://github.com/Jszigeti
 GitLab: https://git.alt-tools.tech/jonas-szigeti
