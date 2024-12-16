@@ -1,4 +1,4 @@
-Version 🥐🥖 :
+## Version 🥐🥖 :
 
 
 👋 Bienvenue sur mon profil !
@@ -9,7 +9,9 @@ Passionné par le développement web depuis mon adolescence, j’ai décidé de 
 - Travel2Gether : Une application web collaborative pour les voyageurs. J'y ai intégré des fonctionnalités comme la gestion de groupes, le partage de médias, et des recommandations personnalisées, le tout avec des technologies comme React, TypeScript, NestJS, et MySQL.
 - Vite-TS-Starter-Kit : Un starter kit pour démarrer rapidement des projets avec Vite et TypeScript, conçu pour être flexible et rapide.
 - Packages npm :
+
       - axios-error-handler-ts : Une solution simplifiant la gestion des erreurs avec Axios et TypeScript.
+  
       - axios-cookie-auth : Un package pour gérer l'authentification basée sur les cookies avec Axios.
   
 💼 Ce que je peux vous apporter :
@@ -47,7 +49,9 @@ I've been passionate about web development since my teenage years, and I decided
 - Travel2Gether: A collaborative web app for travelers. I integrated features like group management, media sharing, and personalized recommendations, all built with technologies like React, TypeScript, NestJS, and MySQL.
 - Vite-TS-Starter-Kit: A starter kit for quickly launching projects with Vite and TypeScript, designed to be flexible and fast.
 - npm packages:
+  
       - axios-error-handler-ts: A solution simplifying error handling with Axios and TypeScript.
+  
       - axios-cookie-auth: A package for managing cookie-based authentication with Axios.
   
 💼 What I bring to the table:
