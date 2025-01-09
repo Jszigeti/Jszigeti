@@ -1,3 +1,38 @@
+### Version 🍔🍟 :
+
+
+## 👋 **Welcome to my profile!**
+
+I've been passionate about web development since my teenage years, and I decided to turn that passion into a career. Today, as a **Full Stack Developer & DevOps**, I strive to create high-performance, maintainable applications that focus on user experience. My approach is rooted in Clean Architecture, ensuring robust and scalable solutions.
+
+### 🚀 **Recent projects I'm proud of:**
+- **Travel2Gether:** A collaborative web app for travelers. I integrated features like group management, media sharing, and personalized recommendations, all built with technologies like React, TypeScript, NestJS, and MySQL.
+- **Vite-TS-Starter-Kit:** A starter kit for quickly launching projects with Vite and TypeScript, designed to be flexible and fast.
+- **axios-error-handler-ts:** A solution simplifying error handling with Axios and TypeScript.
+- **axios-cookie-auth:** A package for managing cookie-based authentication with Axios.
+  
+### 💼 **What I bring to the table:**
+Expertise in modern technologies like React, TypeScript, Next.js, NestJS, SQL/NoSQL, and Docker.
+A clear understanding of software architecture, enabling me to build robust and scalable applications.
+The ability to manage every stage of a project, from front-end to cloud deployment.
+
+### ✨ **An unconventional background, a unique value:**
+With 12 years of experience in management and sales, I learned how to understand human needs, adapt quickly, and align technical objectives with user requirements. These skills enrich my work as a developer and allow me to be just as comfortable coding as collaborating effectively with diverse teams.
+
+### 📚 **Curious and always seeking new challenges:**
+Outside of development, I'm passionate about topics like retrogaming, collaborative applications, and innovative solutions that simplify daily life.
+
+### 📬 **Let’s talk!**
+If you’d like to discuss a project, a technical challenge, or just exchange ideas, feel free to reach out!
+
+**[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)** | **[Portfolio](https://jsproject.fr/)** | **[GitHub](https://github.com/Jszigeti)** | **[GitLab](https://git.alt-tools.tech/jonas-szigeti)**
+
+
+
+___________________________________________________________________________
+
+
+
 ### Version 🥐🥖 :
 
 
@@ -28,34 +63,5 @@ Si vous souhaitez échanger sur un projet, une problématique technique, ou mêm
 **[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)** | **[Portfolio](https://jsproject.fr/)** | **[GitHub](https://github.com/Jszigeti)** | **[GitLab](https://git.alt-tools.tech/jonas-szigeti)**
 
 
-___________________________________________________________________________
 
 
-### Version 🍔🍟 :
-
-
-## 👋 **Welcome to my profile!**
-
-I've been passionate about web development since my teenage years, and I decided to turn that passion into a career. Today, as a **Full Stack Developer & DevOps**, I strive to create high-performance, maintainable applications that focus on user experience. My approach is rooted in Clean Architecture, ensuring robust and scalable solutions.
-
-### 🚀 **Recent projects I'm proud of:**
-- **Travel2Gether:** A collaborative web app for travelers. I integrated features like group management, media sharing, and personalized recommendations, all built with technologies like React, TypeScript, NestJS, and MySQL.
-- **Vite-TS-Starter-Kit:** A starter kit for quickly launching projects with Vite and TypeScript, designed to be flexible and fast.
-- **axios-error-handler-ts:** A solution simplifying error handling with Axios and TypeScript.
-- **axios-cookie-auth:** A package for managing cookie-based authentication with Axios.
-  
-### 💼 **What I bring to the table:**
-Expertise in modern technologies like React, TypeScript, Next.js, NestJS, SQL/NoSQL, and Docker.
-A clear understanding of software architecture, enabling me to build robust and scalable applications.
-The ability to manage every stage of a project, from front-end to cloud deployment.
-
-### ✨ **An unconventional background, a unique value:**
-With 12 years of experience in management and sales, I learned how to understand human needs, adapt quickly, and align technical objectives with user requirements. These skills enrich my work as a developer and allow me to be just as comfortable coding as collaborating effectively with diverse teams.
-
-### 📚 **Curious and always seeking new challenges:**
-Outside of development, I'm passionate about topics like retrogaming, collaborative applications, and innovative solutions that simplify daily life.
-
-### 📬 **Let’s talk!**
-If you’d like to discuss a project, a technical challenge, or just exchange ideas, feel free to reach out!
-
-**[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)** | **[Portfolio](https://jsproject.fr/)** | **[GitHub](https://github.com/Jszigeti)** | **[GitLab](https://git.alt-tools.tech/jonas-szigeti)**
