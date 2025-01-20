@@ -1,10 +1,9 @@
 ## 📊 **GitHub Overview**
 
-### 🔧 **Stack**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss)
+| 🔧 **Stack** | 📊 **Stats** |
+|--------------|--------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord) |
 
-### 📊 **Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord)
 
 
 
