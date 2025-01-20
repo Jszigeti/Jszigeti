@@ -41,14 +41,14 @@ With 12 years of experience in management and sales, I learned how to understand
 Outside of development, I'm passionate about topics like retrogaming, collaborative applications, and innovative solutions that simplify daily life.
 
 
+## 📂 **Explore My Work**
+Feel free to check out my [repositories](https://github.com/Jszigeti?tab=repositories) for more detailed projects.
+
+
 ## 📬 **Let’s Talk!**
 If you’d like to discuss a project, a technical challenge, or just exchange ideas, feel free to reach out!
 
 **[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)** | **[Portfolio](https://jsproject.fr/)**
-
-
-## 📂 **Explore My Work**
-Feel free to check out my [repositories](https://github.com/Jszigeti?tab=repositories) for more detailed projects.
 
 
 
@@ -78,11 +78,11 @@ Passionné par le développement web depuis mon adolescence, j’ai décidé de 
 - La capacité à gérer toutes les étapes d’un projet, du front-end au déploiement sur le cloud
 
 
+## 📂 **Explorez mes travaux**
+Consultez mes [dépôts GitHub](https://github.com/Jszigeti?tab=repositories) pour découvrir mes projets en détail.
+
+
 ## 📬 **Discutons !**
 Si vous souhaitez échanger sur un projet, une problématique technique, ou simplement partager des idées, n’hésitez pas à me contacter !
 
 **[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)** | **[Portfolio](https://jsproject.fr/)**
-
-
-## 📂 **Explorez mes travaux**
-Consultez mes [dépôts GitHub](https://github.com/Jszigeti?tab=repositories) pour découvrir mes projets en détail.
