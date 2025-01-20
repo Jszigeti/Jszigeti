@@ -7,18 +7,17 @@ I've been passionate about web development since my teenage years, and I decided
 
 
 ## 🚀 **Recent Projects I'm Proud Of**
-- **Travel2Gether:** A collaborative web app for travelers. I integrated features like group management, media sharing, and personalized recommendations, all built with technologies like React, TypeScript, NestJS, and MySQL.
-- **Chatbot Widget:** A fully customizable and dynamic chatbot widget designed for seamless website integration. It leverages React, TypeScript, and OpenAI's GPT-3.5-Turbo to provide intelligent and context-aware responses. Although still in development, the widget allows for extensive configuration, including message limits and error handling.
-- **ms-mail:** A robust mail microservice built with NestJS, MongoDB, and NATS. It supports sending emails with customizable templates and tracks their statuses in a MongoDB log for monitoring and debugging. The service integrates with external SMTP providers like SendGrid and supports secure inter-node communication using MongoDB replica sets.
-- **Vite-TS-Starter-Kit:** A starter kit for quickly launching projects with Vite and TypeScript, designed to be flexible and fast.
-- **axios-error-handler-ts:** A solution simplifying error handling with Axios and TypeScript.
-- **axios-cookie-auth:** A package for managing cookie-based authentication with Axios.
+- **ms-mail:** A mail microservice for sending emails with customizable templates and tracking statuses via NATS. (NestJS, MongoDB, NATS)
+- **Chatbot Widget:** A customizable chatbot widget for websites, powered by OpenAI's GPT-3.5-Turbo, with support for message limits and error handling. (React, TypeScript, OpenAI)
+- **Travel2Gether:** A collaborative web app for travelers. I integrated features like group management, media sharing, and personalized recommendations, all built with technologies like React, TypeScript, NestJS, and MySQL
+- **axios-error-handler-ts:** A solution simplifying error handling with Axios and TypeScript
+- **axios-cookie-auth:** A package for managing cookie-based authentication with Axios
 
 
 ## 💼 **What I Bring to the Table**
-- Expertise in modern technologies like React, TypeScript, Next.js, NestJS, SQL/NoSQL, and Docker.
-- A clear understanding of software architecture, enabling me to build robust and scalable applications.
-- The ability to manage every stage of a project, from front-end to cloud deployment.
+- Expertise in modern technologies like React, TypeScript, Next.js, NestJS, SQL/NoSQL, and Docker
+- A clear understanding of software architecture, enabling me to build robust and scalable applications
+- The ability to manage every stage of a project, from front-end to cloud deployment
 
 
 ## ✨ **An Unconventional Background, a Unique Value**
@@ -53,18 +52,17 @@ Passionné par le développement web depuis mon adolescence, j’ai décidé de 
 
 
 ## 🚀 **Quelques réalisations récentes :**
-- **Travel2Gether :** Une application web collaborative pour les voyageurs. J'y ai intégré des fonctionnalités comme la gestion de groupes, le partage de médias, et des recommandations personnalisées, le tout avec des technologies comme React, TypeScript, NestJS, et MySQL.
-- **Chatbot Widget :** Un widget de chatbot dynamique et personnalisable, conçu pour une intégration facile sur n'importe quel site web. Il utilise React, TypeScript et l'API GPT-3.5-Turbo d'OpenAI pour fournir des réponses intelligentes et adaptées au contexte. Ce projet, encore en développement, propose une configuration avancée incluant des limites de messages et une gestion des erreurs.
-- **ms-mail :** Un microservice d'envoi d'emails basé sur NestJS, MongoDB et NATS. Il prend en charge des emails avec modèles personnalisables et enregistre leur statut dans une base MongoDB pour un suivi et un débogage facilités.
-- **Vite-TS-Starter-Kit :** Un starter kit pour démarrer rapidement des projets avec Vite et TypeScript, conçu pour être flexible et rapide.
-- **axios-error-handler-ts :** Une solution simplifiant la gestion des erreurs avec Axios et TypeScript.
-- **axios-cookie-auth :** Un package pour gérer l'authentification basée sur les cookies avec Axios.
+- **ms-mail :** Un microservice d’envoi d’emails avec modèles personnalisables et suivi des statuts via NATS. (NestJS, MongoDB, NATS)
+- **Chatbot Widget :** Un widget de chatbot personnalisable pour sites web, basé sur GPT-3.5-Turbo d'OpenAI, avec gestion des limites de messages et des erreurs. (React, TypeScript, OpenAI)
+- **Travel2Gether :** Une application web collaborative pour les voyageurs. J'y ai intégré des fonctionnalités comme la gestion de groupes, le partage de médias, et des recommandations personnalisées, le tout avec des technologies comme React, TypeScript, NestJS, et MySQL
+- **axios-error-handler-ts :** Une solution simplifiant la gestion des erreurs avec Axios et TypeScript
+- **axios-cookie-auth :** Un package pour gérer l'authentification basée sur les cookies avec Axios
 
 
 ## 💼 **Ce que je peux vous apporter :**
-- Une expertise des technologies modernes telles que React, TypeScript, Next.js, NestJS, SQL/NoSQL, et Docker.
-- Une vision claire de l’architecture logicielle permettant de créer des applications robustes et évolutives.
-- La capacité à gérer toutes les étapes d’un projet, du front-end au déploiement sur le cloud.
+- Une expertise des technologies modernes telles que React, TypeScript, Next.js, NestJS, SQL/NoSQL, et Docker
+- Une vision claire de l’architecture logicielle permettant de créer des applications robustes et évolutives
+- La capacité à gérer toutes les étapes d’un projet, du front-end au déploiement sur le cloud
 
 
 ## 📬 **Discutons !**
@@ -85,6 +83,6 @@ ___________________________________________________________________________
 ## 📊 **GitHub Overview**
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord" alt="GitHub Stats" style="flex: 2; max-width: 67%; height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss" alt="Top Langs" style="flex: 1; max-width: 33%; height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord" alt="GitHub Stats" style="flex: 2; max-width: 67%; height: 100px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss" alt="Top Langs" style="flex: 1; max-width: 33%; height: 100px;" />
 </div>
