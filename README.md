@@ -1,8 +1,8 @@
 ## 📊 **GitHub Overview**
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord" alt="GitHub Stats" style="flex: 2; max-width: 67%; height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss" alt="Top Langs" style="flex: 1; max-width: 33%; height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord" alt="GitHub Stats" style="flex: 2; max-width: 67%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss" alt="Top Langs" style="flex: 1; max-width: 33%; height: 200px;" />
 </div>
 
 
