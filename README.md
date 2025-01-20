@@ -1,11 +1,9 @@
 ## 📊 **GitHub Overview**
 
 ### 🔧 **Stack**
-The following chart represents the main technologies I use in my repositories:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss)
 
 ### 📊 **Stats**
-Here are some insights into my activity on GitHub:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord)
 
 
