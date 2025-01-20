@@ -1,3 +1,16 @@
+## 📊 **GitHub Overview**
+
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord" alt="GitHub Stats" style="flex: 2; max-width: 67%; height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss" alt="Top Langs" style="flex: 1; max-width: 33%; height: 150px;" />
+</div>
+
+
+
+___________________________________________________________________________
+
+
+
 ### Version 🍔🍟 :
 
 
@@ -73,16 +86,3 @@ Si vous souhaitez échanger sur un projet, une problématique technique, ou simp
 
 ## 📂 **Explorez mes travaux**
 Consultez mes [dépôts GitHub](https://github.com/Jszigeti?tab=repositories) pour découvrir mes projets en détail.
-
-
-
-___________________________________________________________________________
-
-
-
-## 📊 **GitHub Overview**
-
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord" alt="GitHub Stats" style="flex: 2; max-width: 67%; height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss" alt="Top Langs" style="flex: 1; max-width: 33%; height: 150px;" />
-</div>
