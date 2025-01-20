@@ -3,7 +3,7 @@
 
 ## 👋 **Welcome to my profile!**
 
-I've been passionate about web development since my teenage years, and I decided to turn that passion into a career. Today, as a **Full Stack Developer & DevOps**, I strive to create high-performance, maintainable applications that focus on user experience. My approach is rooted in Clean Architecture, ensuring robust and scalable solutions.
+I've been passionate about web development since my teenage years, and I decided to turn that passion into a career. Today, as a **Developer**, I strive to create high-performance, maintainable applications that focus on user experience. My approach is rooted in Clean Architecture, ensuring robust and scalable solutions.
 
 ### 🚀 **Recent projects I'm proud of:**
 - **Travel2Gether:** A collaborative web app for travelers. I integrated features like group management, media sharing, and personalized recommendations, all built with technologies like React, TypeScript, NestJS, and MySQL.
@@ -38,7 +38,7 @@ ___________________________________________________________________________
 
 ## 👋 **Bienvenue sur mon profil !**
 
-Passionné par le développement web depuis mon adolescence, j’ai décidé de transformer cette passion en métier. Aujourd’hui, en tant que **développeur Full Stack & DevOps**, je m’efforce de concevoir des applications performantes, maintenables et centrées sur l’utilisateur. Mon approche est basée sur la Clean Architecture pour garantir des solutions robustes et évolutives.
+Passionné par le développement web depuis mon adolescence, j’ai décidé de transformer cette passion en métier. Aujourd’hui, en tant que **développeur**, je m’efforce de concevoir des applications performantes, maintenables et centrées sur l’utilisateur. Mon approche est basée sur la Clean Architecture pour garantir des solutions robustes et évolutives.
 
 ### 🚀 **Quelques réalisations récentes :**
 - **Travel2Gether:** Une application web collaborative pour les voyageurs. J'y ai intégré des fonctionnalités comme la gestion de groupes, le partage de médias, et des recommandations personnalisées, le tout avec des technologies comme React, TypeScript, NestJS, et MySQL.
