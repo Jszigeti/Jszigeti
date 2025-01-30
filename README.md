@@ -4,7 +4,7 @@
 
 Self-taught and passionate about web development since my teenage years, I've always been driven by curiosity—understanding how things work, experimenting, and creating. **Code is just a means**, what truly matters is the impact of the solutions it enables.  
 
-My **non-traditional path**—12 years in **management and sales** before becoming a developer—gives me a vision that extends beyond just writing code: **understanding a need, designing a solid architecture, and delivering an efficient, scalable solution.**  
+My **non-traditional path** — 12 years in **management and sales** before becoming a developer — gives me a vision that extends beyond just writing code: **understanding a need, designing a solid architecture, and delivering an efficient, scalable solution.**  
 
 💡 **I love solving complex problems with simple, effective solutions.**  
 
@@ -69,9 +69,9 @@ Développer, c’est bien plus qu’écrire du code. C’est imaginer, structure
 
 ## 💻 **Stack & Intérêts**  
 
-🛠️ **Technos Clés**: React, TypeScript, NestJS, Prisma, SQL/NoSQL, Docker  
-📈 **Focus**: Performance web, SEO technique, architectures distribuées  
-🎯 **Vision**: Concevoir des solutions **simples à utiliser et à faire évoluer**  
+🛠️ **Technos Clés** : React, TypeScript, NestJS, Prisma, SQL/NoSQL, Docker  
+📈 **Focus** : Performance web, SEO technique, architectures distribuées  
+🎯 **Vision** : Concevoir des solutions **simples à utiliser et à faire évoluer**  
 
 **Toujours en quête de nouveaux défis, apprendre fait partie de mon ADN.**  
 
