@@ -45,7 +45,7 @@ Outside of tech, I’m into **retrogaming**, **collaborative applications**, and
 ## 📬 **Let’s Connect!**  
 If you'd like to talk **tech, innovation, or exciting projects**, feel free to reach out.  
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)** | 🌐 **[Portfolio](https://jsproject.fr/)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)** 
 ___________________________________________________________________________
 
 ## 📊 **GitHub Overview**
