@@ -46,11 +46,3 @@ Outside of tech, I’m into **retrogaming**, **collaborative applications**, and
 If you'd like to talk **tech, innovation, or exciting projects**, feel free to reach out.  
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)** 
-___________________________________________________________________________
-
-## 📊 **GitHub Overview**
-
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jszigeti&show_icons=true&theme=nord" alt="GitHub Stats" style="flex: 2; max-width: 67%; height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jszigeti&layout=compact&theme=nord&hide=html,css,scss" alt="Top Langs" style="flex: 1; max-width: 33%; height: 150px;" />
-</div>
