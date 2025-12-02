@@ -1,48 +1,37 @@
-# 👋 **Welcome to my GitHub!**  
+# 👋 Hi, I'm Jonas
 
-## 🚀 **Build, Learn, Grow**  
+Been into coding since middle school, started with PHP games.  
+After 12 years in management and sales, I came back to building things people use.
 
-Self-taught and passionate about web development since my teenage years, I've always been driven by curiosity—understanding how things work, experimenting, and creating. **Code is just a means**, what truly matters is the impact of the solutions it enables.  
+## 🚀 What I Do
 
-My **non-traditional path** — 12 years in **management and sales** before becoming a developer — gives me a vision that extends beyond just writing code: **understanding a need, designing a solid architecture, and delivering an efficient, scalable solution.**  
+I build web products. My focus is making stuff that works well and solves real problems.  
+My business background helps me understand what users need before jumping into code.
 
-💡 **I love solving complex problems with simple, effective solutions.**  
+**What I care about:**
 
-## 🔹 **Building Meaningful Solutions**  
+Solving real problems with clean, simple solutions  
+Building things that are easy to use  
+Staying close to users to understand what they need  
+Shipping products that actually help people
 
-Development is more than writing code—it's about designing, structuring, and **creating high-performance tools**.  
+## 🧰 Stack
 
-✔️ **Architecture & Scalability** → Building robust and maintainable solutions  
-✔️ **User Experience** → A great product is, above all, **intuitive**  
-✔️ **Performance & SEO** → Fast, accessible, and well-optimized solutions  
+**Languages & Frameworks:** TypeScript, React, NestJS  
+**API & Data:** GraphQL, Hasura, PostgreSQL, Prisma  
+**Infrastructure:** Docker, SQL/NoSQL databases  
+**Focus:** Web performance, API design, user experience
 
-**Seeing an idea turn into a product that people use is what drives me.**  
+Always learning and exploring new ways to build better.
 
-## 💻 **Stack & Interests**  
+## 💡 My Take
 
-🛠️ **Tech Stack**: React, TypeScript, NestJS, Prisma, SQL/NoSQL, Docker  
-📈 **Focus Areas**: Web performance, SEO, distributed architectures  
-🎯 **Vision**: Creating solutions that are **easy to use and evolve over time**  
+Code is just a tool. What matters is whether it helps users.  
+I like talking to people, understanding their needs and building solutions that work.
 
-**Learning and tackling new challenges is part of my DNA.**  
+Outside of tech, I'm into retro gaming and collaborative apps.
 
-## 🚀 **Recent Projects**  
+## 📬 Let's Connect
 
-🔹 **ms-mail** → Email microservice with customizable templates and tracking. *(NestJS, MongoDB, NATS)*  
-🔹 **Chatbot Widget** → A customizable chatbot widget powered by OpenAI. *(React, TypeScript, OpenAI)*  
-🔹 **Travel2Gether** → A collaborative web app for travelers. *(React, TypeScript, NestJS, MySQL)*  
-🔹 **axios-error-handler-ts** → Simplified error handling for Axios with TypeScript.  
-🔹 **axios-cookie-auth** → Cookie-based authentication management with Axios.  
-
-📂 **Explore more projects** → [My GitHub Repositories](https://github.com/Jszigeti?tab=repositories)  
-
-## 📚 **Always Curious, Always Learning**  
-
-Development is a **never-ending learning journey**. **I love exploring, experimenting, and sharing** my findings.  
-
-Outside of tech, I’m into **retrogaming**, **collaborative applications**, and open-source solutions that simplify everyday life.  
-
-## 📬 **Let’s Connect!**  
-If you'd like to talk **tech, innovation, or exciting projects**, feel free to reach out.  
-
-🔗 **[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)** 
+💼 [LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)  
+📂 Check out my repos to see what I'm working on
