@@ -1,37 +1,15 @@
-# 👋 Hi, I'm Jonas
+# Jonas Szigeti
 
-Been into coding since middle school, started with PHP games.  
-After 12 years in management and sales, I came back to building things people use.
+Full Stack Developer at [Jarvi](https://jarvi.tech) since 2025, an ATS and CRM for recruiters, in a product and tech team of four (Rennes, France). Before that, 12 years in sales and management. I still do user support and user interviews every week.
 
-## 🚀 What I Do
+## Projects
 
-I build web products. My focus is making stuff that works well and solves real problems.  
-My business background helps me understand what users need before jumping into code.
+- [floe](https://github.com/Jszigeti/floe) turns the iCloud storage you already pay for into a real versioned backup. Go, MIT, CI, dated releases, used daily since July 2026.
+- [launchts](https://github.com/Jszigeti/launchts) is an interactive CLI that scaffolds a production-ready TypeScript project in seconds. On [npm](https://www.npmjs.com/package/launchts), Vitest suite, CI.
+- Occasional contributor to [react-admin](https://github.com/marmelab/react-admin/pulls?q=author%3AJszigeti), the admin framework we use at work.
 
-**What I care about:**
+## How I work
 
-Solving real problems with clean, simple solutions  
-Building things that are easy to use  
-Staying close to users to understand what they need  
-Shipping products that actually help people
+Most of my code is written with Claude Code. I decide what to build, review every change, and prove it with tests, CI and dated releases.
 
-## 🧰 Stack
-
-**Languages & Frameworks:** TypeScript, React, NestJS  
-**API & Data:** GraphQL, Hasura, PostgreSQL, Prisma  
-**Infrastructure:** Docker, SQL/NoSQL databases  
-**Focus:** Web performance, API design, user experience
-
-Always learning and exploring new ways to build better.
-
-## 💡 My Take
-
-Code is just a tool. What matters is whether it helps users.  
-I like talking to people, understanding their needs and building solutions that work.
-
-Outside of tech, I'm into retro gaming and collaborative apps.
-
-## 📬 Let's Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)  
-📂 Check out my repos to see what I'm working on
+[LinkedIn](https://www.linkedin.com/in/jonas-szigeti/)
